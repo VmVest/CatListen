@@ -82,7 +82,8 @@ sudo python3 Cat-OceanV0.9.py --bitlisten
 
 ### Done! Bubbles will popup now. Enjoy!
 ### Preview:
-![Alt text](Images/Preview.png)
+![Alt text](Images/Preview-Dark.png)
+![Alt text](Images/Preview-Light.png)
 
 
 ## 🧑‍💻 Author
