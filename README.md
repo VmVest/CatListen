@@ -28,7 +28,7 @@
 
 ## 🐲 Usage
 
-###Clone this repository:
+### Clone this repository:
 ```bash
 sudo git clone https://github.com/VmVest/CatListen.git
 cd CatListen
@@ -38,7 +38,7 @@ Install dependencies with:
 sudo pip install -r requirements.txt --break-system-packages
 ```
 
-###Run Catcoin Node:
+### Run Catcoin Node:
 **Windows**
 Head to the Catcoind folder then open terminal in that folder (Right-click in blank area in that folder and select Open Terminal).
 ```bash
@@ -61,7 +61,7 @@ cd Catcoind
 Example: ./catcoind.exe -conf="C:\Users\vmvest\Desktop\Catlisten\Catcoind\catcoin.conf"
 
 
-###Run Cat-Ocean toolkit:
+### Run Cat-Ocean toolkit:
 **Windows**
 Back to the Catlisten folder then open terminal in that folder (Right-click in blank area in that folder and select Open Terminal).
 ```bash
@@ -82,7 +82,7 @@ cd ..
 sudo python3 Cat-OceanV0.9.py --bitlisten
 ```
 
-###Open the index.html file.
+### Open the index.html file.
 
 ### Done! Bubbles will popup now. Enjoy!
 ### Preview:
