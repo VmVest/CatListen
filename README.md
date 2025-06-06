@@ -1,5 +1,5 @@
 # CatListen 
-### CatListen is a real-time Catcoin transaction visualizer that displays transactions as animated bubbles. It connects to your local Catcoin node via ZMQ and WebSockets.
+### CatListen is a real-time Catcoin transaction visualizer that displays transactions as animated bubbles, connecting to your local Catcoin node via ZMQ and WebSockets.
 
 ## 🔮 Features
 
