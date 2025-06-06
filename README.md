@@ -47,15 +47,11 @@ Head to the Catcoind folder then open terminal in that folder (Right-click in bl
 **Linux**
 ```bash
 cd Catcoind
-```
-```bash
 ./catcoind -conf={paste-catcoin.conf-path}
 ```
 **MacOS**
 ```bash
 cd Catcoind
-```
-```bash
 ./catcoind-osx -conf={paste-catcoin.conf-path}
 ```
 Example: ./catcoind.exe -conf="C:\Users\vmvest\Desktop\Catlisten\Catcoind\catcoin.conf"
@@ -70,15 +66,11 @@ python3 Cat-OceanV0.9.py --bitlisten
 **Linux**
 ```bash
 cd ..
-```
-```bash
 sudo python3 Cat-OceanV0.9.py --bitlisten
 ```
 **MacOS**
 ```bash
 cd ..
-```
-```bash
 sudo python3 Cat-OceanV0.9.py --bitlisten
 ```
 
